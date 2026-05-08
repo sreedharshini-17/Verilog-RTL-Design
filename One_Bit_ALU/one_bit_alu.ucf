@@ -1,0 +1,5 @@
+NET "A" LOC = "P27";
+NET "B" LOC = "P26";
+NET "opcode[0]" LOC = "P24";
+NET "opcode[1]" LOC = "P16";
+NET "result" LOC = "P15";
